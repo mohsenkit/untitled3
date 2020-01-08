@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="styles/stylesheet.css">
     <link rel="stylesheet" href="styles/css/all.css">
 
-    <title>محسن کیت</title>
+    <title>محسن کیت جدید</title>
 </head>
 <body>
 
